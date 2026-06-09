@@ -5,7 +5,7 @@ authors = [
 ]
 description = "A module to capture Expenses in ERPNext"
 requires-python = ">=3.10"
-readme = "README.md"v
+readme = "README.md"
 version = "0.0.1"
 dependencies = [
     "frappe>=16.0.0.dev0,<17.0.0.dev0",
